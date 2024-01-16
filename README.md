@@ -31,12 +31,31 @@
 
 **2.** Create a Profit and Loss (P&L) reports by _[Markets](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/P%20%26%20L%20for%20Markets%20(portfolio).pdf)_
 
-**3.** Generate a Quarterly Percentage Gross Margin by _[Sub-zone](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/GM%25%20By%20Quarters%20(sub_zone_.pdf)_ & _[Expanded sub zone](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/GM%25%20by%20quarters%20(expanded%20months).pdf)_
+**3.** Generate a Quarterly Percentage Gross Margin by _[Sub-zone](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/GM%25%20By%20Quarters.pdf)_ & _[Expanded sub zone](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/GM%25%20by%20quarters%20(expanded%20months).pdf)_
 
 
 
-**Purpose of sales analytics:** To provide insights into sales activities and help businesses make informed decisions.
+**Purpose of finance analytics:** To assess financial performance, create accurate financial forecasts and budgets, identify and analyze cost, and identify and assess financial risks.
 
-**Importance of analyzing sales data:** Identify sales trends and make strategic plans or identify potential markets and opportunities.
+**Importance of analyzing finance data:** Aids in benchmarking against competitors and identify areas for improvement or competitive advantage.
 
-**Role of reports:**
+**Role of reports:** To offer insights and information that help stakeholders make informed decisions and manage financial health of the organization.
+
+## Technical Skills:
+
+- [x] Proficiency in ETL (Extract, Transform, Load) methodology
+- [x] Ability to clean and transform data using Power Query
+- [x] Ability to generate date table using Power Query
+- [x] Using Power Pivot to establish data model relationships.
+- [x] Creating buttons using VBA macros
+- [x] Generating calculated columns using DAX
+- [x] Ability to generate fiscal months and year
+
+
+## Soft Skills:
+- [x] Critical understanding of Sales & Financial Reports
+- [x] Self-directed learning
+- [x] Designing customer-focused reports with strong empathy
+- [x] Generating reports creatively
+- [x] Attention to detail
+- [x] Creative problem solving
