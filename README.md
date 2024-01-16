@@ -18,3 +18,8 @@
 
 **8.** Generate a report on the _[newly sold products of 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Newly%20Sold%20Products%20of%202021).pdf)_
 
+**Purpose of sales analytics:** To provide insights into sales activities and help businesses make informed decisions.
+
+**Importance of analyzing sales data:** Identify sales trends and make strategic plans or identify potential markets and opportunities.
+
+**Role of reports:** Guide inventory and marketing decisions, identify high-value customers and tailor strategies for customer retention and satisfaction, highlight strong-performing geographic areas for international expansion or localization efforts.
