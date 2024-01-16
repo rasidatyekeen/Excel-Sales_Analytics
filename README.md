@@ -10,4 +10,11 @@
 
 **4.** Analyze the _[top 5 products based on the quantities sold](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Top%205%20Products%20in%20Qty).pdf)_
 
-**5.** Generated a _[division level report on % increase on goods sold from 2020 to 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Division%20Level%20Report).pdf)_
+**5.** Generate a _[division level report on % increase in sales from 2020 to 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Division%20Level%20Report).pdf)_
+
+**6.** Generate the _[top 5 countries with highest amount of sales in 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Top%205%20Countries)1.pdf)_
+
+**7.** Generate a _[top 10 product report on % increase in sales from 2020 to 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Top%2010%20Products).pdf)_
+
+**8.** Generate a report on the _[newly sold products of 2021](https://github.com/rasidatyekeen/Excel-Sales_Analytics/blob/main/Sales%20Analytics%20Report%20(Newly%20Sold%20Products%20of%202021).pdf)_
+
